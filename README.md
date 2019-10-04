@@ -42,7 +42,7 @@ POST  - /target/<target_id>   - create new target
 ### Clonning repository
 
 ```
-git clone https://github.com/zer0dx/cryptondie
+git clone https://github.com/alex14324/cryptondie
 ```
 
 ### Install requirements
@@ -75,10 +75,9 @@ Advanced Encryption Standard
 ### Contact
 
 ```text
-[+] Telegram:   @zer0dx
-[+] Github:     https://github.com/zer0dx
-[+] Twitter:    https://twitter.com/zer0dxx
-[+] Blog:       https://zer0dx.github.io
+[+] Telegram:   @alex14324
+[+] Github:     https://github.com/alex14324
+[+] Twitter:    https://twitter.com/alex14324
 ```
 
 <p align="center">
