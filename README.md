@@ -77,5 +77,5 @@ Advanced Encryption Standard
 ```
 
 <p align="center">
-  <p align="center">chaos is order yet undeciphered.</p>
+  <p align="center">choose is order yet decrypted.</p>
 </p>
